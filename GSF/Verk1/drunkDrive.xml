@@ -1,0 +1,695 @@
+This XML file does not appear to have any style information associated with it. The document tree is shown below.
+<response>
+<row>
+<row _id="1" _uuid="7CABF352-F030-44F1-B291-5C490AFCBA1A" _position="1" _address="http://data.cdc.gov/resource/ebbj-sh54/1">
+<state_not_geocoded>United States</state_not_geocoded>
+<state_geocoded human_address="{"address":"United States","city":"","state":"","zip":""}" latitude="39.759995942000046" longitude="-98.49999896099996" needs_recoding="false"/>
+<all_ages>3.3</all_ages>
+<all_ages_2014>3.1</all_ages_2014>
+<ages_0_20>1.3</ages_0_20>
+<ages_0_20_2014>1.2</ages_0_20_2014>
+<ages_21_34>6.7</ages_21_34>
+<ages_21_34_2014>6.2</ages_21_34_2014>
+<ages_35>3.1</ages_35>
+<ages_35_2014>3.0</ages_35_2014>
+<male>5.2</male>
+<male_2014>4.9</male_2014>
+<female>1.5</female>
+<female_2014>1.4</female_2014>
+</row>
+<row _id="2" _uuid="E0B95F3B-74F4-41B2-8521-3922F532A1DB" _position="2" _address="http://data.cdc.gov/resource/ebbj-sh54/2">
+<state_not_geocoded>Alabama</state_not_geocoded>
+<state_geocoded human_address="{"address":"Alabama","city":"","state":"","zip":""}" latitude="32.84057234800002" longitude="-86.63185738799996" needs_recoding="false"/>
+<all_ages>5.5</all_ages>
+<all_ages_2014>5.5</all_ages_2014>
+<ages_0_20>2.7</ages_0_20>
+<ages_0_20_2014>2.1</ages_0_20_2014>
+<ages_21_34>10.3</ages_21_34>
+<ages_21_34_2014>10.0</ages_21_34_2014>
+<ages_35>5</ages_35>
+<ages_35_2014>5.5</ages_35_2014>
+<male>8.4</male>
+<male_2014>8.6</male_2014>
+<female>2.9</female>
+<female_2014>2.6</female_2014>
+</row>
+<row _id="3" _uuid="61E55ADA-FDED-4F71-98AE-AD7D0AE5D23E" _position="3" _address="http://data.cdc.gov/resource/ebbj-sh54/3">
+<state_not_geocoded>Alaska</state_not_geocoded>
+<state_geocoded human_address="{"address":"Alaska","city":"","state":"","zip":""}" latitude="64.84507799500005" longitude="-147.72205958799998" needs_recoding="false"/>
+<all_ages_2014>2.8</all_ages_2014>
+</row>
+<row _id="4" _uuid="6D2308E3-D15E-4E87-A902-C45A368D4D0A" _position="4" _address="http://data.cdc.gov/resource/ebbj-sh54/4">
+<state_not_geocoded>Arizona</state_not_geocoded>
+<state_geocoded human_address="{"address":"Arizona","city":"","state":"","zip":""}" latitude="34.86597351900008" longitude="-111.76380664699997" needs_recoding="false"/>
+<all_ages>3.6</all_ages>
+<all_ages_2014>3.0</all_ages_2014>
+<ages_0_20>1.6</ages_0_20>
+<ages_21_34>6.9</ages_21_34>
+<ages_21_34_2014>5.5</ages_21_34_2014>
+<ages_35>3.3</ages_35>
+<ages_35_2014>3.1</ages_35_2014>
+<male>5.4</male>
+<male_2014>4.5</male_2014>
+<female>1.7</female>
+<female_2014>1.5</female_2014>
+</row>
+<row _id="5" _uuid="C6077166-882C-4E27-97F8-D35BF90B76AE" _position="5" _address="http://data.cdc.gov/resource/ebbj-sh54/5">
+<state_not_geocoded>Arkansas</state_not_geocoded>
+<state_geocoded human_address="{"address":"Arkansas","city":"","state":"","zip":""}" latitude="34.74865032200006" longitude="-92.27448966799994" needs_recoding="false"/>
+<all_ages>5.0999999999999996</all_ages>
+<all_ages_2014>4.6</all_ages_2014>
+<ages_21_34>10.5</ages_21_34>
+<ages_21_34_2014>6.3</ages_21_34_2014>
+<ages_35>4.3</ages_35>
+<ages_35_2014>5.4</ages_35_2014>
+<male>8.1</male>
+<male_2014>7.2</male_2014>
+<female>2.2000000000000002</female>
+<female_2014>2.2</female_2014>
+</row>
+<row _id="6" _uuid="50B4FC04-1EEB-475A-9261-F08D64674D41" _position="6" _address="http://data.cdc.gov/resource/ebbj-sh54/6">
+<state_not_geocoded>California</state_not_geocoded>
+<state_geocoded human_address="{"address":"California","city":"","state":"","zip":""}" latitude="37.63864210000003" longitude="-120.99999644699994" needs_recoding="false"/>
+<all_ages>2</all_ages>
+<all_ages_2014>2.2</all_ages_2014>
+<ages_0_20>0.9</ages_0_20>
+<ages_0_20_2014>1.0</ages_0_20_2014>
+<ages_21_34>4.5</ages_21_34>
+<ages_21_34_2014>4.6</ages_21_34_2014>
+<ages_35>1.8</ages_35>
+<ages_35_2014>2.0</ages_35_2014>
+<male>3.2</male>
+<male_2014>3.4</male_2014>
+<female>1</female>
+<female_2014>1.1</female_2014>
+</row>
+<row _id="7" _uuid="E034380B-AE3D-48C9-ADEA-1DD7BCB2F27C" _position="7" _address="http://data.cdc.gov/resource/ebbj-sh54/7">
+<state_not_geocoded>Colorado</state_not_geocoded>
+<state_geocoded human_address="{"address":"Colorado","city":"","state":"","zip":""}" latitude="38.84384342200008" longitude="-106.13360911499996" needs_recoding="false"/>
+<all_ages>2.5</all_ages>
+<all_ages_2014>3.0</all_ages_2014>
+<ages_0_20_2014>1.7</ages_0_20_2014>
+<ages_21_34>5.6</ages_21_34>
+<ages_21_34_2014>5.6</ages_21_34_2014>
+<ages_35>2</ages_35>
+<ages_35_2014>2.6</ages_35_2014>
+<male>3.9</male>
+<male_2014>4.6</male_2014>
+<female>1.1000000000000001</female>
+<female_2014>1.3</female_2014>
+</row>
+<row _id="8" _uuid="5CC0BBD1-4720-4AD2-8868-95ACEBCD9945" _position="8" _address="http://data.cdc.gov/resource/ebbj-sh54/8">
+<state_not_geocoded>Connecticut</state_not_geocoded>
+<state_geocoded human_address="{"address":"Connecticut","city":"","state":"","zip":""}" latitude="41.56266070000004" longitude="-72.64983977999998" needs_recoding="false"/>
+<all_ages>2.4</all_ages>
+<all_ages_2014>2.7</all_ages_2014>
+<ages_21_34>5.9</ages_21_34>
+<ages_21_34_2014>6.1</ages_21_34_2014>
+<ages_35>2.1</ages_35>
+<ages_35_2014>2.5</ages_35_2014>
+<male>3.7</male>
+<male_2014>4.6</male_2014>
+<female>1.1000000000000001</female>
+</row>
+<row _id="9" _uuid="07E37ABC-CA33-4B3B-889D-7A87FD3178C9" _position="9" _address="http://data.cdc.gov/resource/ebbj-sh54/9">
+<state_not_geocoded>Delaware</state_not_geocoded>
+<state_geocoded human_address="{"address":"Delaware","city":"","state":"","zip":""}" latitude="39.00883389200004" longitude="-75.57773597599999" needs_recoding="false"/>
+<all_ages>3.8</all_ages>
+<all_ages_2014>5.2</all_ages_2014>
+<ages_21_34_2014>11.7</ages_21_34_2014>
+<ages_35>4</ages_35>
+<ages_35_2014>4.6</ages_35_2014>
+<male>6.6</male>
+<male_2014>7.4</male_2014>
+</row>
+<row _id="10" _uuid="6EBF546A-EF8F-4DD0-8C42-7DD975FDB75D" _position="10" _address="http://data.cdc.gov/resource/ebbj-sh54/10">
+<state_not_geocoded>District of Columbia</state_not_geocoded>
+<state_geocoded human_address="{"address":"District of Columbia","city":"","state":"","zip":""}" latitude="38.89037258400003" longitude="-77.03195678499998" needs_recoding="false"/>
+</row>
+<row _id="11" _uuid="BF0F0A09-A8C5-4F33-B234-BE79A5B0FF4C" _position="11" _address="http://data.cdc.gov/resource/ebbj-sh54/11">
+<state_not_geocoded>Florida</state_not_geocoded>
+<state_geocoded human_address="{"address":"Florida","city":"","state":"","zip":""}" latitude="28.932042722000062" longitude="-81.92895768899996" needs_recoding="false"/>
+<all_ages>3.7</all_ages>
+<all_ages_2014>3.5</all_ages_2014>
+<ages_0_20>1.2</ages_0_20>
+<ages_0_20_2014>1.2</ages_0_20_2014>
+<ages_21_34>8</ages_21_34>
+<ages_21_34_2014>7.4</ages_21_34_2014>
+<ages_35>3.3</ages_35>
+<ages_35_2014>3.1</ages_35_2014>
+<male>5.7</male>
+<male_2014>5.4</male_2014>
+<female>1.7</female>
+<female_2014>1.7</female_2014>
+</row>
+<row _id="12" _uuid="3A255EB5-3029-4620-B582-296032A1CE00" _position="12" _address="http://data.cdc.gov/resource/ebbj-sh54/12">
+<state_not_geocoded>Georgia</state_not_geocoded>
+<state_geocoded human_address="{"address":"Georgia","city":"","state":"","zip":""}" latitude="32.839683200000024" longitude="-83.62757885599996" needs_recoding="false"/>
+<all_ages>3</all_ages>
+<all_ages_2014>2.7</all_ages_2014>
+<ages_0_20>1</ages_0_20>
+<ages_0_20_2014>0.8</ages_0_20_2014>
+<ages_21_34>5.8</ages_21_34>
+<ages_21_34_2014>5.2</ages_21_34_2014>
+<ages_35>3.1</ages_35>
+<ages_35_2014>2.9</ages_35_2014>
+<male>4.9000000000000004</male>
+<male_2014>4.7</male_2014>
+<female>1.2</female>
+<female_2014>0.9</female_2014>
+</row>
+<row _id="13" _uuid="F6343FF5-58C5-4145-B3F0-274A1E019C48" _position="13" _address="http://data.cdc.gov/resource/ebbj-sh54/13">
+<state_not_geocoded>Hawaii</state_not_geocoded>
+<state_geocoded human_address="{"address":"Hawaii","city":"","state":"","zip":""}" latitude="21.30485232600006" longitude="-157.85774798099996" needs_recoding="false"/>
+<all_ages>3.8</all_ages>
+<all_ages_2014>2.2</all_ages_2014>
+<ages_35>3.2</ages_35>
+<male>5.7</male>
+<male_2014>3.6</male_2014>
+</row>
+<row _id="14" _uuid="2380A79C-F6A2-42AF-99C8-1190CFE14272" _position="14" _address="http://data.cdc.gov/resource/ebbj-sh54/14">
+<state_not_geocoded>Idaho</state_not_geocoded>
+<state_geocoded human_address="{"address":"Idaho","city":"","state":"","zip":""}" latitude="43.68263174800006" longitude="-114.36372693399994" needs_recoding="false"/>
+<all_ages>3.6</all_ages>
+<all_ages_2014>3.3</all_ages_2014>
+<ages_21_34>8.6999999999999993</ages_21_34>
+<ages_35>2.7</ages_35>
+<ages_35_2014>3.0</ages_35_2014>
+<male>5.8</male>
+<male_2014>4.8</male_2014>
+</row>
+<row _id="15" _uuid="79C6E9F4-FB9D-4FC3-B2E1-F0386A236A0A" _position="15" _address="http://data.cdc.gov/resource/ebbj-sh54/15">
+<state_not_geocoded>Illinois</state_not_geocoded>
+<state_geocoded human_address="{"address":"Illinois","city":"","state":"","zip":""}" latitude="40.48501223300008" longitude="-88.99770922699997" needs_recoding="false"/>
+<all_ages>2.5</all_ages>
+<all_ages_2014>2.4</all_ages_2014>
+<ages_0_20>0.7</ages_0_20>
+<ages_0_20_2014>0.7</ages_0_20_2014>
+<ages_21_34>6</ages_21_34>
+<ages_21_34_2014>5.5</ages_21_34_2014>
+<ages_35>2.1</ages_35>
+<ages_35_2014>2.2</ages_35_2014>
+<male>4</male>
+<male_2014>3.7</male_2014>
+<female>1</female>
+<female_2014>1.3</female_2014>
+</row>
+<row _id="16" _uuid="B40E9CF7-0D9C-4D4F-88E2-52A2114136CB" _position="16" _address="http://data.cdc.gov/resource/ebbj-sh54/16">
+<state_not_geocoded>Indiana</state_not_geocoded>
+<state_geocoded human_address="{"address":"Indiana","city":"","state":"","zip":""}" latitude="39.766913353000064" longitude="-86.14995646699998" needs_recoding="false"/>
+<all_ages>3.6</all_ages>
+<all_ages_2014>3.2</all_ages_2014>
+<ages_0_20>1.2</ages_0_20>
+<ages_21_34>7.2</ages_21_34>
+<ages_21_34_2014>6.3</ages_21_34_2014>
+<ages_35>3.5</ages_35>
+<ages_35_2014>3.2</ages_35_2014>
+<male>6</male>
+<male_2014>5.1</male_2014>
+<female>1.3</female>
+<female_2014>1.3</female_2014>
+</row>
+<row _id="17" _uuid="5D605AA5-B309-4E8C-9BE2-40D86F0B9C28" _position="17" _address="http://data.cdc.gov/resource/ebbj-sh54/17">
+<state_not_geocoded>Iowa</state_not_geocoded>
+<state_geocoded human_address="{"address":"Iowa","city":"","state":"","zip":""}" latitude="42.469401411000035" longitude="-93.81648725599996" needs_recoding="false"/>
+<all_ages>3.2</all_ages>
+<all_ages_2014>3.0</all_ages_2014>
+<ages_21_34>5.9</ages_21_34>
+<ages_21_34_2014>4.6</ages_21_34_2014>
+<ages_35>2.9</ages_35>
+<ages_35_2014>3.4</ages_35_2014>
+<male>5.0999999999999996</male>
+<male_2014>4.8</male_2014>
+</row>
+<row _id="18" _uuid="1AAF28D3-D5B3-4A10-ADAB-B7C582FA9678" _position="18" _address="http://data.cdc.gov/resource/ebbj-sh54/18">
+<state_not_geocoded>Kansas</state_not_geocoded>
+<state_geocoded human_address="{"address":"Kansas","city":"","state":"","zip":""}" latitude="38.347742794000055" longitude="-98.20077822999997" needs_recoding="false"/>
+<all_ages>3.4</all_ages>
+<all_ages_2014>3.6</all_ages_2014>
+<ages_0_20>2.2999999999999998</ages_0_20>
+<ages_21_34>6</ages_21_34>
+<ages_21_34_2014>7.4</ages_21_34_2014>
+<ages_35>3</ages_35>
+<ages_35_2014>3.3</ages_35_2014>
+<male>6</male>
+<male_2014>5.8</male_2014>
+<female_2014>1.4</female_2014>
+</row>
+<row _id="19" _uuid="A63AFD5D-1AE1-4624-8CCC-F82468E5D036" _position="19" _address="http://data.cdc.gov/resource/ebbj-sh54/19">
+<state_not_geocoded>Kentucky</state_not_geocoded>
+<state_geocoded human_address="{"address":"Kentucky","city":"","state":"","zip":""}" latitude="37.64597313300004" longitude="-84.77496771599994" needs_recoding="false"/>
+<all_ages>4</all_ages>
+<all_ages_2014>3.9</all_ages_2014>
+<ages_0_20>1.8</ages_0_20>
+<ages_0_20_2014>2.0</ages_0_20_2014>
+<ages_21_34>7.2</ages_21_34>
+<ages_21_34_2014>7.8</ages_21_34_2014>
+<ages_35>3.7</ages_35>
+<ages_35_2014>3.4</ages_35_2014>
+<male>6.5</male>
+<male_2014>6.5</male_2014>
+<female>1.5</female>
+<female_2014>1.3</female_2014>
+</row>
+<row _id="20" _uuid="F99891B6-8E66-4724-AF52-015CD43D43BD" _position="20" _address="http://data.cdc.gov/resource/ebbj-sh54/20">
+<state_not_geocoded>Louisiana</state_not_geocoded>
+<state_geocoded human_address="{"address":"Louisiana","city":"","state":"","zip":""}" latitude="31.312663324000027" longitude="-92.44567750499994" needs_recoding="false"/>
+<all_ages>5.2</all_ages>
+<all_ages_2014>5.4</all_ages_2014>
+<ages_0_20>2.8</ages_0_20>
+<ages_0_20_2014>1.8</ages_0_20_2014>
+<ages_21_34>8.6</ages_21_34>
+<ages_21_34_2014>9.4</ages_21_34_2014>
+<ages_35>5.0999999999999996</ages_35>
+<ages_35_2014>5.7</ages_35_2014>
+<male>8.3000000000000007</male>
+<male_2014>9.1</male_2014>
+<female>2.4</female>
+<female_2014>1.9</female_2014>
+</row>
+<row _id="21" _uuid="CFF85368-B981-42E3-A0B5-427E73179FF3" _position="21" _address="http://data.cdc.gov/resource/ebbj-sh54/21">
+<state_not_geocoded>Maine</state_not_geocoded>
+<state_geocoded human_address="{"address":"Maine","city":"","state":"","zip":""}" latitude="45.25422910300006" longitude="-68.98502586699993" needs_recoding="false"/>
+<all_ages>3.8</all_ages>
+<all_ages_2014>3.3</all_ages_2014>
+<ages_35>2.8</ages_35>
+<ages_35_2014>3.1</ages_35_2014>
+<male>6.6</male>
+<male_2014>5.1</male_2014>
+</row>
+<row _id="22" _uuid="4C992248-389A-4A78-ABEE-6B8110C3E7C7" _position="22" _address="http://data.cdc.gov/resource/ebbj-sh54/22">
+<state_not_geocoded>Maryland</state_not_geocoded>
+<state_geocoded human_address="{"address":"Maryland","city":"","state":"","zip":""}" latitude="39.290582950000044" longitude="-76.60925984299996" needs_recoding="false"/>
+<all_ages>2.7</all_ages>
+<all_ages_2014>2.2</all_ages_2014>
+<ages_0_20>1.6</ages_0_20>
+<ages_21_34>5.8</ages_21_34>
+<ages_21_34_2014>5.4</ages_21_34_2014>
+<ages_35>2.2000000000000002</ages_35>
+<ages_35_2014>1.8</ages_35_2014>
+<male>4.0999999999999996</male>
+<male_2014>3.5</male_2014>
+<female>1.4</female>
+<female_2014>0.9</female_2014>
+</row>
+<row _id="23" _uuid="8F174254-3AE1-4221-90C0-B44302B6A492" _position="23" _address="http://data.cdc.gov/resource/ebbj-sh54/23">
+<state_not_geocoded>Massachusetts</state_not_geocoded>
+<state_geocoded human_address="{"address":"Massachusetts","city":"","state":"","zip":""}" latitude="42.27687400000008" longitude="-72.08268726299997" needs_recoding="false"/>
+<all_ages>1.8</all_ages>
+<all_ages_2014>1.9</all_ages_2014>
+<ages_21_34>3.3</ages_21_34>
+<ages_21_34_2014>4.0</ages_21_34_2014>
+<ages_35>1.7</ages_35>
+<ages_35_2014>1.8</ages_35_2014>
+<male>2.7</male>
+<male_2014>3.1</male_2014>
+<female>0.9</female>
+<female_2014>0.9</female_2014>
+</row>
+<row _id="24" _uuid="23838BD4-7F38-479D-979A-D47ACB710913" _position="24" _address="http://data.cdc.gov/resource/ebbj-sh54/24">
+<state_not_geocoded>Michigan</state_not_geocoded>
+<state_geocoded human_address="{"address":"Michigan","city":"","state":"","zip":""}" latitude="44.66132238800003" longitude="-84.71438555599997" needs_recoding="false"/>
+<all_ages>2.7</all_ages>
+<all_ages_2014>2.2</all_ages_2014>
+<ages_0_20>1.1000000000000001</ages_0_20>
+<ages_0_20_2014>1.0</ages_0_20_2014>
+<ages_21_34>6.8</ages_21_34>
+<ages_21_34_2014>5.1</ages_21_34_2014>
+<ages_35>2</ages_35>
+<ages_35_2014>1.8</ages_35_2014>
+<male>4.3</male>
+<male_2014>3.3</male_2014>
+<female>1.2</female>
+<female_2014>1.1</female_2014>
+</row>
+<row _id="25" _uuid="F027DEFD-A97C-4ED5-A45C-C77816B4A1BB" _position="25" _address="http://data.cdc.gov/resource/ebbj-sh54/25">
+<state_not_geocoded>Minnesota</state_not_geocoded>
+<state_geocoded human_address="{"address":"Minnesota","city":"","state":"","zip":""}" latitude="46.35564896600005" longitude="-94.79419983199995" needs_recoding="false"/>
+<all_ages>2.1</all_ages>
+<all_ages_2014>1.9</all_ages_2014>
+<ages_21_34>3.7</ages_21_34>
+<ages_21_34_2014>3.5</ages_21_34_2014>
+<ages_35>2.2000000000000002</ages_35>
+<ages_35_2014>2.1</ages_35_2014>
+<male>3.2</male>
+<male_2014>3.0</male_2014>
+<female>1.2</female>
+<female_2014>0.9</female_2014>
+</row>
+<row _id="26" _uuid="64F2DB09-0BB4-44E5-907C-B7AE5942466F" _position="26" _address="http://data.cdc.gov/resource/ebbj-sh54/26">
+<state_not_geocoded>Mississippi</state_not_geocoded>
+<state_geocoded human_address="{"address":"Mississippi","city":"","state":"","zip":""}" latitude="32.745513440000025" longitude="-89.53802722999995" needs_recoding="false"/>
+<all_ages>6.1</all_ages>
+<all_ages_2014>6.0</all_ages_2014>
+<ages_0_20>2.6</ages_0_20>
+<ages_0_20_2014>2.8</ages_0_20_2014>
+<ages_21_34>12</ages_21_34>
+<ages_21_34_2014>10.8</ages_21_34_2014>
+<ages_35>5.7</ages_35>
+<ages_35_2014>5.8</ages_35_2014>
+<male>9.8000000000000007</male>
+<male_2014>9.4</male_2014>
+<female>2.7</female>
+<female_2014>2.8</female_2014>
+</row>
+<row _id="27" _uuid="A9C39992-0B74-4975-AE79-2DDD00803D61" _position="27" _address="http://data.cdc.gov/resource/ebbj-sh54/27">
+<state_not_geocoded>Missouri</state_not_geocoded>
+<state_geocoded human_address="{"address":"Missouri","city":"","state":"","zip":""}" latitude="38.63579147100006" longitude="-92.56629944499997" needs_recoding="false"/>
+<all_ages>4.8</all_ages>
+<all_ages_2014>3.4</all_ages_2014>
+<ages_0_20>1.9</ages_0_20>
+<ages_21_34>9.5</ages_21_34>
+<ages_21_34_2014>6.9</ages_21_34_2014>
+<ages_35>4.4000000000000004</ages_35>
+<ages_35_2014>3.2</ages_35_2014>
+<male>7.8</male>
+<male_2014>5.6</male_2014>
+<female>1.8</female>
+<female_2014>1.3</female_2014>
+</row>
+<row _id="28" _uuid="4E0D5B74-13AF-42F5-80AF-139FF95647E1" _position="28" _address="http://data.cdc.gov/resource/ebbj-sh54/28">
+<state_not_geocoded>Montana</state_not_geocoded>
+<state_geocoded human_address="{"address":"Montana","city":"","state":"","zip":""}" latitude="47.06652795700006" longitude="-109.42441587999997" needs_recoding="false"/>
+<all_ages>9.4</all_ages>
+<all_ages_2014>7.3</all_ages_2014>
+<ages_21_34>21.4</ages_21_34>
+<ages_21_34_2014>15.4</ages_21_34_2014>
+<ages_35>7.2</ages_35>
+<ages_35_2014>6.9</ages_35_2014>
+<male>14.9</male>
+<male_2014>10.2</male_2014>
+<female>4</female>
+<female_2014>4.3</female_2014>
+</row>
+<row _id="29" _uuid="3E997A3A-3624-4BF7-8878-83FD169C1B81" _position="29" _address="http://data.cdc.gov/resource/ebbj-sh54/29">
+<state_not_geocoded>Nebraska</state_not_geocoded>
+<state_geocoded human_address="{"address":"Nebraska","city":"","state":"","zip":""}" latitude="41.64104362100005" longitude="-99.36571888999998" needs_recoding="false"/>
+<all_ages>4</all_ages>
+<all_ages_2014>3.3</all_ages_2014>
+<ages_21_34>6.5</ages_21_34>
+<ages_21_34_2014>7.0</ages_21_34_2014>
+<ages_35>3.5</ages_35>
+<ages_35_2014>3.0</ages_35_2014>
+<male>6.4</male>
+<male_2014>5.0</male_2014>
+</row>
+<row _id="30" _uuid="F40A87F7-F885-413B-B0A9-ED9DBAACD771" _position="30" _address="http://data.cdc.gov/resource/ebbj-sh54/30">
+<state_not_geocoded>Nevada</state_not_geocoded>
+<state_geocoded human_address="{"address":"Nevada","city":"","state":"","zip":""}" latitude="39.49324221300003" longitude="-117.07183885899997" needs_recoding="false"/>
+<all_ages>2.8</all_ages>
+<all_ages_2014>3.3</all_ages_2014>
+<ages_21_34>4.5999999999999996</ages_21_34>
+<ages_21_34_2014>6.4</ages_21_34_2014>
+<ages_35>3.2</ages_35>
+<ages_35_2014>2.7</ages_35_2014>
+<male>4.2</male>
+<male_2014>4.9</male_2014>
+<female>1.4</female>
+<female_2014>1.7</female_2014>
+</row>
+<row _id="31" _uuid="108BC9B0-E983-460A-BD3D-0438A50E14EC" _position="31" _address="http://data.cdc.gov/resource/ebbj-sh54/31">
+<state_not_geocoded>New Hampshire</state_not_geocoded>
+<state_geocoded human_address="{"address":"New Hampshire","city":"","state":"","zip":""}" latitude="43.65595283500005" longitude="-71.50035697299995" needs_recoding="false"/>
+<all_ages>2.4</all_ages>
+<all_ages_2014>2.4</all_ages_2014>
+<ages_35>2.9</ages_35>
+<male>4.0999999999999996</male>
+<male_2014>3.2</male_2014>
+</row>
+<row _id="32" _uuid="AF5D8065-4656-472D-908B-6DEEDC27D6AA" _position="32" _address="http://data.cdc.gov/resource/ebbj-sh54/32">
+<state_not_geocoded>New Jersey</state_not_geocoded>
+<state_geocoded human_address="{"address":"New Jersey","city":"","state":"","zip":""}" latitude="40.130570807000026" longitude="-74.27368796999997" needs_recoding="false"/>
+<all_ages>1.8</all_ages>
+<all_ages_2014>1.8</all_ages_2014>
+<ages_21_34>4.5999999999999996</ages_21_34>
+<ages_21_34_2014>3.6</ages_21_34_2014>
+<ages_35>1.4</ages_35>
+<ages_35_2014>1.7</ages_35_2014>
+<male>2.9</male>
+<male_2014>2.9</male_2014>
+<female>0.9</female>
+<female_2014>0.8</female_2014>
+</row>
+<row _id="33" _uuid="FB81B6F4-8765-429B-AB76-60A547DB9166" _position="33" _address="http://data.cdc.gov/resource/ebbj-sh54/33">
+<state_not_geocoded>New Mexico</state_not_geocoded>
+<state_geocoded human_address="{"address":"New Mexico","city":"","state":"","zip":""}" latitude="34.52088149400004" longitude="-106.24057817299996" needs_recoding="false"/>
+<all_ages>4.8</all_ages>
+<all_ages_2014>5.7</all_ages_2014>
+<ages_21_34>9.1</ages_21_34>
+<ages_21_34_2014>11.2</ages_21_34_2014>
+<ages_35>4.5</ages_35>
+<ages_35_2014>5.1</ages_35_2014>
+<male>6.9</male>
+<male_2014>8.6</male_2014>
+<female>2.9</female>
+<female_2014>2.8</female_2014>
+</row>
+<row _id="34" _uuid="F4CCE833-AEC2-4336-8618-4B360347CC5E" _position="34" _address="http://data.cdc.gov/resource/ebbj-sh54/34">
+<state_not_geocoded>New York</state_not_geocoded>
+<state_geocoded human_address="{"address":"New York","city":"","state":"","zip":""}" latitude="42.82700376100007" longitude="-75.54396609999998" needs_recoding="false"/>
+<all_ages>1.7</all_ages>
+<all_ages_2014>1.6</all_ages_2014>
+<ages_0_20>0.6</ages_0_20>
+<ages_0_20_2014>0.7</ages_0_20_2014>
+<ages_21_34>3.3</ages_21_34>
+<ages_21_34_2014>3.0</ages_21_34_2014>
+<ages_35>1.7</ages_35>
+<ages_35_2014>1.5</ages_35_2014>
+<male>2.7</male>
+<male_2014>2.4</male_2014>
+<female>0.8</female>
+<female_2014>0.8</female_2014>
+</row>
+<row _id="35" _uuid="554B5272-7114-488B-8C38-050B6FA89FD6" _position="35" _address="http://data.cdc.gov/resource/ebbj-sh54/35">
+<state_not_geocoded>North Carolina</state_not_geocoded>
+<state_geocoded human_address="{"address":"North Carolina","city":"","state":"","zip":""}" latitude="35.466220159000045" longitude="-79.15924997399998" needs_recoding="false"/>
+<all_ages>4.2</all_ages>
+<all_ages_2014>3.8</all_ages_2014>
+<ages_0_20>1.7</ages_0_20>
+<ages_0_20_2014>1.4</ages_0_20_2014>
+<ages_21_34>8</ages_21_34>
+<ages_21_34_2014>7.7</ages_21_34_2014>
+<ages_35>4</ages_35>
+<ages_35_2014>3.6</ages_35_2014>
+<male>6.8</male>
+<male_2014>6.3</male_2014>
+<female>1.7</female>
+<female_2014>1.5</female_2014>
+</row>
+<row _id="36" _uuid="B0F9425C-6514-418B-9CCF-2BC44937418F" _position="36" _address="http://data.cdc.gov/resource/ebbj-sh54/36">
+<state_not_geocoded>North Dakota</state_not_geocoded>
+<state_geocoded human_address="{"address":"North Dakota","city":"","state":"","zip":""}" latitude="47.475318609000055" longitude="-100.11842789099995" needs_recoding="false"/>
+<all_ages>11.3</all_ages>
+<all_ages_2014>7.2</all_ages_2014>
+<ages_21_34>15.3</ages_21_34>
+<ages_21_34_2014>15.2</ages_21_34_2014>
+<ages_35>12</ages_35>
+<ages_35_2014>6.1</ages_35_2014>
+<male>17.399999999999999</male>
+<male_2014>10.7</male_2014>
+</row>
+<row _id="37" _uuid="E2105AD6-E887-4D19-8DE8-026C1E0C369E" _position="37" _address="http://data.cdc.gov/resource/ebbj-sh54/37">
+<state_not_geocoded>Ohio</state_not_geocoded>
+<state_geocoded human_address="{"address":"Ohio","city":"","state":"","zip":""}" latitude="40.060212455000055" longitude="-82.40425667899996" needs_recoding="false"/>
+<all_ages>3.5</all_ages>
+<all_ages_2014>2.7</all_ages_2014>
+<ages_0_20>1.2</ages_0_20>
+<ages_0_20_2014>0.8</ages_0_20_2014>
+<ages_21_34>6.8</ages_21_34>
+<ages_21_34_2014>5.6</ages_21_34_2014>
+<ages_35>3.3</ages_35>
+<ages_35_2014>2.6</ages_35_2014>
+<male>5.5</male>
+<male_2014>4.2</male_2014>
+<female>1.6</female>
+<female_2014>1.3</female_2014>
+</row>
+<row _id="38" _uuid="377EC60F-8A17-4FDF-909D-476D538C9D2A" _position="38" _address="http://data.cdc.gov/resource/ebbj-sh54/38">
+<state_not_geocoded>Oklahoma</state_not_geocoded>
+<state_geocoded human_address="{"address":"Oklahoma","city":"","state":"","zip":""}" latitude="35.472030747000076" longitude="-97.52106835299998" needs_recoding="false"/>
+<all_ages>5.6</all_ages>
+<all_ages_2014>4.0</all_ages_2014>
+<ages_21_34>10.5</ages_21_34>
+<ages_21_34_2014>7.4</ages_21_34_2014>
+<ages_35>5.8</ages_35>
+<ages_35_2014>3.9</ages_35_2014>
+<male>9.3000000000000007</male>
+<male_2014>6.0</male_2014>
+<female>1.9</female>
+<female_2014>2.1</female_2014>
+</row>
+<row _id="39" _uuid="82ED77A0-4F49-4250-98A2-6462B1ECD256" _position="39" _address="http://data.cdc.gov/resource/ebbj-sh54/39">
+<state_not_geocoded>Oregon</state_not_geocoded>
+<state_geocoded human_address="{"address":"Oregon","city":"","state":"","zip":""}" latitude="44.56745049300008" longitude="-120.15502935599994" needs_recoding="false"/>
+<all_ages>2.2000000000000002</all_ages>
+<all_ages_2014>2.5</all_ages_2014>
+<ages_21_34>5.2</ages_21_34>
+<ages_21_34_2014>4.2</ages_21_34_2014>
+<ages_35>1.8</ages_35>
+<ages_35_2014>2.6</ages_35_2014>
+<male>3.1</male>
+<male_2014>3.7</male_2014>
+<female>1.3</female>
+<female_2014>1.4</female_2014>
+</row>
+<row _id="40" _uuid="0AF33D2A-918F-4DE9-981D-00F2599CF22A" _position="40" _address="http://data.cdc.gov/resource/ebbj-sh54/40">
+<state_not_geocoded>Pennsylvania</state_not_geocoded>
+<state_geocoded human_address="{"address":"Pennsylvania","city":"","state":"","zip":""}" latitude="40.79373362300004" longitude="-77.86069690799997" needs_recoding="false"/>
+<all_ages>3.3</all_ages>
+<all_ages_2014>2.7</all_ages_2014>
+<ages_0_20>1.4</ages_0_20>
+<ages_0_20_2014>0.7</ages_0_20_2014>
+<ages_21_34>7.2</ages_21_34>
+<ages_21_34_2014>5.5</ages_21_34_2014>
+<ages_35>2.8</ages_35>
+<ages_35_2014>2.7</ages_35_2014>
+<male>5.4</male>
+<male_2014>4.4</male_2014>
+<female>1.3</female>
+<female_2014>1.1</female_2014>
+</row>
+<row _id="41" _uuid="3771E2C1-3431-447C-9AE2-019AF5AA608A" _position="41" _address="http://data.cdc.gov/resource/ebbj-sh54/41">
+<state_not_geocoded>Rhode Island</state_not_geocoded>
+<state_geocoded human_address="{"address":"Rhode Island","city":"","state":"","zip":""}" latitude="41.70828106100004" longitude="-71.52246566099996" needs_recoding="false"/>
+<all_ages>2.2999999999999998</all_ages>
+</row>
+<row _id="42" _uuid="408FD342-188B-4811-B858-DADA44EC4C72" _position="42" _address="http://data.cdc.gov/resource/ebbj-sh54/42">
+<state_not_geocoded>South Carolina</state_not_geocoded>
+<state_geocoded human_address="{"address":"South Carolina","city":"","state":"","zip":""}" latitude="33.99882216300006" longitude="-81.04536596899999" needs_recoding="false"/>
+<all_ages>7.6</all_ages>
+<all_ages_2014>5.8</all_ages_2014>
+<ages_0_20>2.8</ages_0_20>
+<ages_0_20_2014>2.0</ages_0_20_2014>
+<ages_21_34>14.2</ages_21_34>
+<ages_21_34_2014>12.4</ages_21_34_2014>
+<ages_35>7.6</ages_35>
+<ages_35_2014>5.3</ages_35_2014>
+<male>12.3</male>
+<male_2014>9.0</male_2014>
+<female>3.2</female>
+<female_2014>2.9</female_2014>
+</row>
+<row _id="43" _uuid="9285239B-EB51-485D-B6BA-B25113430148" _position="43" _address="http://data.cdc.gov/resource/ebbj-sh54/43">
+<state_not_geocoded>South Dakota</state_not_geocoded>
+<state_geocoded human_address="{"address":"South Dakota","city":"","state":"","zip":""}" latitude="44.35313004200003" longitude="-100.37352915599996" needs_recoding="false"/>
+<all_ages>5.7</all_ages>
+<all_ages_2014>5.6</all_ages_2014>
+<ages_35_2014>6.2</ages_35_2014>
+<male>7.4</male>
+<male_2014>8.7</male_2014>
+</row>
+<row _id="44" _uuid="97E15896-422F-4327-9F53-C0FF11A0B06A" _position="44" _address="http://data.cdc.gov/resource/ebbj-sh54/44">
+<state_not_geocoded>Tennessee</state_not_geocoded>
+<state_geocoded human_address="{"address":"Tennessee","city":"","state":"","zip":""}" latitude="35.68094072700006" longitude="-85.77448666899994" needs_recoding="false"/>
+<all_ages>4.5999999999999996</all_ages>
+<all_ages_2014>4.1</all_ages_2014>
+<ages_0_20>1.6</ages_0_20>
+<ages_21_34>8</ages_21_34>
+<ages_21_34_2014>8.2</ages_21_34_2014>
+<ages_35>4.9000000000000004</ages_35>
+<ages_35_2014>4.1</ages_35_2014>
+<male>7.5</male>
+<male_2014>6.8</male_2014>
+<female>1.8</female>
+<female_2014>1.5</female_2014>
+</row>
+<row _id="45" _uuid="BB1B0512-9852-4093-91F9-1B0C00B17159" _position="45" _address="http://data.cdc.gov/resource/ebbj-sh54/45">
+<state_not_geocoded>Texas</state_not_geocoded>
+<state_geocoded human_address="{"address":"Texas","city":"","state":"","zip":""}" latitude="31.827240467000024" longitude="-99.42676785299994" needs_recoding="false"/>
+<all_ages>4.9000000000000004</all_ages>
+<all_ages_2014>5.4</all_ages_2014>
+<ages_0_20>2.1</ages_0_20>
+<ages_0_20_2014>2.3</ages_0_20_2014>
+<ages_21_34>10</ages_21_34>
+<ages_21_34_2014>10.0</ages_21_34_2014>
+<ages_35>4.7</ages_35>
+<ages_35_2014>5.3</ages_35_2014>
+<male>7.6</male>
+<male_2014>8.1</male_2014>
+<female>2.4</female>
+<female_2014>2.7</female_2014>
+</row>
+<row _id="46" _uuid="DEE47720-B1F4-49CF-ADE3-E2474C56E47E" _position="46" _address="http://data.cdc.gov/resource/ebbj-sh54/46">
+<state_not_geocoded>Utah</state_not_geocoded>
+<state_geocoded human_address="{"address":"Utah","city":"","state":"","zip":""}" latitude="39.36070123200005" longitude="-111.58712831499997" needs_recoding="false"/>
+<all_ages>1.2</all_ages>
+<all_ages_2014>2.0</all_ages_2014>
+<ages_35>1.9</ages_35>
+<ages_35_2014>2.3</ages_35_2014>
+<male>1.7</male>
+<male_2014>3.0</male_2014>
+</row>
+<row _id="47" _uuid="AD608E15-75BE-4526-9285-E40D70D59F9D" _position="47" _address="http://data.cdc.gov/resource/ebbj-sh54/47">
+<state_not_geocoded>Vermont</state_not_geocoded>
+<state_geocoded human_address="{"address":"Vermont","city":"","state":"","zip":""}" latitude="43.62538389600007" longitude="-72.51763667599994" needs_recoding="false"/>
+<all_ages>3.4</all_ages>
+</row>
+<row _id="48" _uuid="64D40D0E-10EA-414D-A7D5-8416DFEC61C1" _position="48" _address="http://data.cdc.gov/resource/ebbj-sh54/48">
+<state_not_geocoded>Virginia</state_not_geocoded>
+<state_geocoded human_address="{"address":"Virginia","city":"","state":"","zip":""}" latitude="37.542680705000066" longitude="-78.45788932099998" needs_recoding="false"/>
+<all_ages>2.5</all_ages>
+<all_ages_2014>2.5</all_ages_2014>
+<ages_0_20>1.2</ages_0_20>
+<ages_0_20_2014>1.2</ages_0_20_2014>
+<ages_21_34>4.5</ages_21_34>
+<ages_21_34_2014>5.1</ages_21_34_2014>
+<ages_35>2.6</ages_35>
+<ages_35_2014>2.3</ages_35_2014>
+<male>4.0999999999999996</male>
+<male_2014>3.9</male_2014>
+<female>0.9</female>
+<female_2014>1.2</female_2014>
+</row>
+<row _id="49" _uuid="95A47EE9-20C7-4620-98D7-FC838BB32E68" _position="49" _address="http://data.cdc.gov/resource/ebbj-sh54/49">
+<state_not_geocoded>Washington</state_not_geocoded>
+<state_geocoded human_address="{"address":"Washington","city":"","state":"","zip":""}" latitude="47.52228790000004" longitude="-120.47002813699999" needs_recoding="false"/>
+<all_ages>2.1</all_ages>
+<all_ages_2014>1.9</all_ages_2014>
+<ages_21_34>4</ages_21_34>
+<ages_21_34_2014>3.4</ages_21_34_2014>
+<ages_35>2</ages_35>
+<ages_35_2014>1.9</ages_35_2014>
+<male>3.6</male>
+<male_2014>2.9</male_2014>
+<female>0.7</female>
+<female_2014>0.9</female_2014>
+</row>
+<row _id="50" _uuid="B958E16B-85B3-474F-9C06-3393B4B40F8C" _position="50" _address="http://data.cdc.gov/resource/ebbj-sh54/50">
+<state_not_geocoded>West Virginia</state_not_geocoded>
+<state_geocoded human_address="{"address":"","city":"West","state":"Virginia","zip":""}" latitude="38.66551127300005" longitude="-80.71263755899997" needs_recoding="false"/>
+<all_ages>5.6</all_ages>
+<all_ages_2014>4.7</all_ages_2014>
+<ages_21_34>12.9</ages_21_34>
+<ages_21_34_2014>10.0</ages_21_34_2014>
+<ages_35>4.4000000000000004</ages_35>
+<ages_35_2014>4.0</ages_35_2014>
+<male>9.3000000000000007</male>
+<male_2014>7.1</male_2014>
+</row>
+<row _id="51" _uuid="D6C8E6A8-CB6C-4EDC-95BA-303359DB4175" _position="51" _address="http://data.cdc.gov/resource/ebbj-sh54/51">
+<state_not_geocoded>Wisconsin</state_not_geocoded>
+<state_geocoded human_address="{"address":"Wisconsin","city":"","state":"","zip":""}" latitude="44.39319064600005" longitude="-89.81636640199997" needs_recoding="false"/>
+<all_ages>3.6</all_ages>
+<all_ages_2014>2.9</all_ages_2014>
+<ages_0_20>1.6</ages_0_20>
+<ages_21_34>6.5</ages_21_34>
+<ages_21_34_2014>7.5</ages_21_34_2014>
+<ages_35>3.5</ages_35>
+<ages_35_2014>2.3</ages_35_2014>
+<male>5.6</male>
+<male_2014>4.8</male_2014>
+<female>1.6</female>
+<female_2014>1.2</female_2014>
+</row>
+<row _id="52" _uuid="AF45AE05-33C3-4C00-8E1D-A80CB1B24DEE" _position="52" _address="http://data.cdc.gov/resource/ebbj-sh54/52">
+<state_not_geocoded>Wyoming</state_not_geocoded>
+<state_geocoded human_address="{"address":"Wyoming","city":"","state":"","zip":""}" latitude="43.23554100600006" longitude="-108.10982701399996" needs_recoding="false"/>
+<all_ages>7.1</all_ages>
+<all_ages_2014>8.2</all_ages_2014>
+<ages_21_34>17.3</ages_21_34>
+<ages_35_2014>8.1</ages_35_2014>
+<male>11.3</male>
+<male_2014>13.1</male_2014>
+</row>
+</row>
+</response>
