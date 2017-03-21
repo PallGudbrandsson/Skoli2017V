@@ -7,13 +7,12 @@ CREATE TABLE data3(
 	name varchar(255),
 	type varchar(255),
 	recclass float(25),
-	reclat
-	reclong
-	id
-	goelocation
-	latitude
-	needs_recording
-	longitude
+	reclat float(25),
+	reclong float(25),
+	id int(11),
+	latitude float(25),
+	needs_recording boolean,
+	longitude float(25),
 	ADD CONSTRAINT fall_def DEFAULT "UNKNOWN" FOR fall,
 	ADD CONSTRAINT year_def DEFAULT NOW() for year,
 	ADD CONSTRAINT nametype_def DEFAULT "UNKNOWN" for nametype,
@@ -21,11 +20,10 @@ CREATE TABLE data3(
 	ADD CONSTRAINT name_def DEFAULT "UNKNOWN" for name,
 	ADD CONSTRAINT type_def DEFAULT "UNKNOWN" for type,
 	ADD CONSTRAINT recclass_def DEFAULT 0 for recclass,
-	ADD CONSTRAINT reclat_def DEFAULT "UNKNOWN" for reclat,
-	ADD CONSTRAINT reclong_def DEFAULT "UNKNOWN" for reclong,
-	ADD CONSTRAINT id_def DEFAULT "UNKNOWN" for id,
-	ADD CONSTRAINT goelocation_def DEFAULT "UNKNOWN" for goelocation,
-	ADD CONSTRAINT latitude_def DEFAULT "UNKNOWN" for latitude,
-	ADD CONSTRAINT needs_recording_def DEFAULT "UNKNOWN" for needs_recording,
-	ADD CONSTRAINT longitude_def DEFAULT "UNKNOWN" for longitude
+	ADD CONSTRAINT reclat_def DEFAULT 0 for reclat,
+	ADD CONSTRAINT reclong_def DEFAULT 0 for reclong,
+	ADD CONSTRAINT id_def DEFAULT 0 for id,
+	ADD CONSTRAINT latitude_def DEFAULT 0 for latitude,
+	ADD CONSTRAINT needs_recording_def DEFAULT 1 for needs_recording,
+	ADD CONSTRAINT longitude_def DEFAULT 0 for longitude
 )

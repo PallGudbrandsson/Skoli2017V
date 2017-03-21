@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.IO;
+using System.Threading;
 
 namespace json_sql
 {
@@ -19,23 +20,35 @@ namespace json_sql
 
             string line = null;
             string[] input;
+            char[] pff = "'".ToCharArray();
+            int count = 0;
 
             //Console.WriteLine("1");
             while ((line = reader.ReadLine()) != null)
             {
-                Console.WriteLine(line);
                 //Console.WriteLine("2");
-                if (line.Contains('}') == false && line.Contains('{') == false && line.Contains(']') == false)
+                if (line.Contains('}') == false || line.Contains('{') == false || line.Contains(']') == false)
                 {
                    // Console.WriteLine("3");
                     try
                     {
                         input = line.Split(':');
-                        Console.WriteLine("4");
-                        for (int i = 0; i < input.Length; i++)
+                        for (int i = 0; i < input.Length; i++)//this loop is to clean the line of chars that don't belong #make strings great again
                         {
-                            input[i] = input[i].Trim();
-                            input[i] = input[i].Trim('"');
+                            string item = null;//var for holding the input[i] while working with it
+
+                            for (int a = 0; a < input[i].Length; a++)
+                            {
+                                if (input[i][a] == pff[0] || input[i][a] == '"' || input[i][a] == ',')
+                                {
+
+                                }
+                                else
+                                {
+                                    item += input[i][a];
+                                }
+                            }
+                            input[i] = item.Trim();
                         }
                         if (line.Contains('{') == false && line.Contains('}') == false)
                         {
@@ -45,15 +58,14 @@ namespace json_sql
                     }
                     catch (Exception ex)
                     {
-                        throw ex;
+                        
                     }
                 }//end while
-                if (line.Contains('}') == true && line.Contains(']') == true)
+                if (line.Contains('}') == true || line.Contains(']') == true)
                 {
                     try
                     {
-                        Console.WriteLine(cats[0]);
-                        Console.WriteLine("5");
+                        Console.WriteLine(cats[0] + ' ' + count);
                         line = "INSERT INTO data3(" + cats[0];
                         for (int i = 1; i < cats.Count; i++)
                         {
@@ -70,7 +82,7 @@ namespace json_sql
                             }
                             catch (Exception)
                             {
-                                line += "'" + data[i] + "'";
+                                line += pff[0] + data[i] + pff[0];
                             }
                             if (i != data.Count)
                             {
@@ -79,9 +91,9 @@ namespace json_sql
                         }
                         line += ");";
                         writer.WriteLine(line);
-                        Console.WriteLine(line);
                         cats.Clear();
                         data.Clear();
+                        count++;
                     }
                     catch (Exception)
                     {
@@ -89,6 +101,8 @@ namespace json_sql
                     }
                 }
             }//end while
+            Console.WriteLine(count); Console.ReadLine();
+            Thread.Sleep(1000);
             writer.Close();
             reader.Close();
         }
